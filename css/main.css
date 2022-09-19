@@ -1,0 +1,125 @@
+._8esl{
+    padding: 0px 26px 0 70px;
+}
+
+._8esk {
+    margin: 0 auto;
+    width: 980px;
+    flex-wrap: nowrap;
+    padding-top: 117px;
+    background: #f0f2f5;
+    min-height: 700px;
+}
+
+._8ice {
+    padding-top: 50px;
+}
+
+._8eso {
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    font-size: 28px;
+}
+
+._6luv {
+    background: white;
+    padding: 16px 16px 9px 16px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+}
+
+._6ltj {
+    display: flex;
+    justify-content: center;
+    padding: 8px 0px;
+}
+
+._8icz {
+    border-bottom: 1px solid #dadde1;
+    margin: 10px 0px;
+}
+
+._6icz {
+    border-bottom: 1px solid #dadde1;
+    margin: -8px 0px 8px 0;
+}
+
+._6esk {
+    margin: 0 auto;
+    width: 980px;
+    flex-wrap: nowrap;
+    padding-top: 25px;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
+
+li a {
+    color: #737373;
+    padding: 0 8px;
+}
+
+.fb_content {
+    min-height: 700px;
+    padding-bottom: 20px;
+    width: 100%;
+}
+
+.fb_logo {
+    height: 106px;
+    margin: -20px;
+}
+
+.form-group {
+    padding: 0 0px 12px 0;
+}
+
+.input-lg {
+    height: 50px;
+}
+
+.btn-br {
+    width: 100%;
+    height: 50px;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.btn-su {
+    width: 50%;
+    height: 50px;
+    font-weight: bold;
+    background-color: #42b72a;
+}
+
+.fx {
+    display: flex;
+}
+
+.center {
+    text-align: center;
+    padding: 17px 0;
+}
+
+.fx-box {
+    display: -webkit-box;
+    flex-wrap: wrap;
+}
+
+.meta {
+    color: #737373;
+    padding: 0 29px;
+    font-size: 12px;
+}
+
+.main-backr{
+    background: #f0f2f5;
+}
